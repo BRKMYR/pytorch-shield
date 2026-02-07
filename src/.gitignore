@@ -1,0 +1,6 @@
+# Local data and results
+data/
+results/
+*.pt
+*.pth
+.ipynb_checkpoints/
