@@ -7,4 +7,4 @@ This project implements a **Differentiable Safety Layer** (Lagrangian penalty) t
 To prove that autonomous agents can be trained for maximum performance without ever violating safety-critical boundaries.
 
 ---
-**Author:** BRKMYR (Niklas Barkmeyer)
+**Author:** BRKMYR
